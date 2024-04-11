@@ -1,4 +1,5 @@
 #Linwei Zhang
+from agt_decode import decode
 
 def encode(password):
     encoded_password = ""
